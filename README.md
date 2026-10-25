@@ -63,4 +63,4 @@ This dashboard converts raw Adidas sales data into meaningful business insights.
 
 The project demonstrates practical skills in data analysis, KPI development, interactive dashboard design, and business intelligence using Power BI.
 Screenshot/Demos
-Show what the Dashboard looks likes-
+Show what the Dashboard looks likes-https://github.com/Stivan2004/ADIDAS-SALES-ANALYSIS-DASHBOARD/blob/main/ADIDAS%20SALES%20ANALYSIS%20DASHBOARD.png
